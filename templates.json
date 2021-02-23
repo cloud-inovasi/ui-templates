@@ -399,11 +399,11 @@
     "type": "container",
     "title": "Plesk",
     "description": "WebOps platform and hosting control panel",
-    "categories": ["CMS"],
+    "categories": ["hosting", "development"],
     "platform": "linux",
-    "note": "Default credentials: admin / changeme",
+    "note": "Default credentials: admin / changeme1Q**",
     "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/plesk.png",
-    "image": "plesk/plesk:preview",
+    "image": "plesk/plesk:latest",
     "ports": [
       "21/tcp", "80/tcp", "443/tcp", "8880/tcp", "8443/tcp", "8447/tcp"
     ]
